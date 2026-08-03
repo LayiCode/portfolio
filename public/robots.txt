@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://layicode.github.io/portfolio/sitemap.xml
+Sitemap: https://layicode.vercel.app/sitemap.xml
